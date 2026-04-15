@@ -1,5 +1,5 @@
 # Discord bot creater | Python coder
-## Follow @Sebscripts
+## Follow @sebscripts
 
 <p align="center">
   <a href="https://skillicons.dev">
