@@ -1,4 +1,4 @@
-# Discord bot creater | Python coder
+# Discord bot creater | Python & C++ coder
 ## Follow @sebscripts
 
 <p align="center">
